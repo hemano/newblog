@@ -1,11 +1,11 @@
 # basic options
-title: Autmatika:
-author: hemano
-email: hemantojhaa@gmail.com
-description: A one stop site for all test automation queries
-twitter_username: @hemanto22
+title:  Autmatika:
+author:  hemano
+email:  hemantojhaa@gmail.com
+description:  A one stop site for all test automation queries
+twitter_username:  @hemanto22
 github_username:  hemano
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown:  kramdown
+theme:  minima
